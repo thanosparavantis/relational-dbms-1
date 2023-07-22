@@ -4,5 +4,5 @@ A SQL based project that was developed as an assignment for the subject of Datab
 **Group members involved in this project:**  
 Ioannidis Panagiotis, Paravantis Athanasios, Nikas Dionisios
 
-**Browse through related projects on thanosparavantis.com:**  
-https://www.thanosparavantis.com/projects/relational-dbms-1
+**Browse through related projects on thanos.dev:**  
+https://thanos.dev/projects/relational-dbms-1
